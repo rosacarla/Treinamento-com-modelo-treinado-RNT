@@ -1,4 +1,4 @@
-# TREINAMENTO DE REDE RNT E TESTE COM MODELO TREINADO  
+# TREINAMENTO DE REDE RNT COM MODELO TREINADO  
 Projeto desenvolvido para treinamento de rede neural RNT na tarefa de previsão da cotação do dólar em reais, com salvamento do modelo treinado para execução de novo treinamento com os mesmos dados.   
 
 ## 🧰 Tecnologias utilizadas  
